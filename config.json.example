@@ -1,0 +1,18 @@
+{
+  "gmail": {
+    "email_address": "your-email@gmail.com",
+    "credentials_file": "credentials.json",
+    "token_file": "token.json"
+  },
+  "notifications": {
+    "phone_number": "+1234567890"
+  },
+  "ai": {
+    "model": "llama3.2:3b",
+    "priority_threshold": 7
+  },
+  "settings": {
+    "max_emails_to_process": 20,
+    "high_priority_keywords": ["urgent", "asap", "deadline", "interview", "important", "action required"]
+  }
+}
