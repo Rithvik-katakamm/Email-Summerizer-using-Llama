@@ -1,4 +1,4 @@
-# 📧 Intelligent Email Summarizer
+# 📧 Ai for Smart Email Management
 
 > **Privacy-first email automation** that transforms your Gmail inbox into actionable insights using **local AI** and **structured outputs**.
 
